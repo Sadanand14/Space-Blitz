@@ -1,0 +1,5 @@
+{"name1":"","score":"00:17:401","minute":0,"second":0,"millisecond":0}
+{"name1":"","score":"00:19:541","minute":0,"second":0,"millisecond":0}
+{"name1":"","score":"00:20:001","minute":0,"second":20,"millisecond":1}
+{"name1":"","score":"00:24:721","minute":0,"second":24,"millisecond":721}
+{"name1":"","score":"00:24:904","minute":0,"second":24,"millisecond":904}

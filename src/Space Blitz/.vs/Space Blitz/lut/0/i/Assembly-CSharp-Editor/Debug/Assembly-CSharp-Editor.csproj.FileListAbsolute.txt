@@ -1,0 +1,2 @@
+Z:\IGMProfile\Desktop\New folder\IGME-601-2181-Team-E\src\Space Blitz\.vs\Space Blitz\lut\0\i\Assembly-CSharp-Editor\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+Z:\IGMProfile\Desktop\New folder\IGME-601-2181-Team-E\src\Space Blitz\.vs\Space Blitz\lut\0\i\Assembly-CSharp-Editor\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
